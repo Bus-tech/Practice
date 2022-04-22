@@ -1,4 +1,4 @@
-Age,Sex,Race,Marital status?,Education,Employement,Incomes,How many books did you read during last 12months?,Read any printed books during last 12months?,Read any audiobooks during last 12months?,Read any e-books during last 12months?,"Last book you read, you…",Do you happen to read any daily news or newspapers?,Do you happen to read any magazines or journals?
+Age,Sex,Race,Marital status?,Education,Employement,Incomes,How many books did you read during last 12months?,Read any printed books during last 12months?,Read any audiobooks during last 12months?,Read any e-books during last 12months?,Last book you read?,Do you happen to read any daily news or newspapers?,Do you happen to read any magazines or journals?
 66,Male,Refused,Divorced,College graduate,Retired,"$20,000 to under $30,000",97,Yes,No,Yes,Purchased the book,No,Yes
 46,Male,Native American/American Indian,Married,High school graduate,Employed full-time,"Less than $10,000",97,Yes,Yes,Yes,Purchased the book,Yes,Yes
 32,Male,Mixed race,Never been married,High school graduate,Employed full-time,"Less than $10,000",97,No,Yes,Yes,Borrowed the book from a friend or family member,Yes,Yes
@@ -2831,4 +2831,4 @@ Age,Sex,Race,Marital status?,Education,Employement,Incomes,How many books did yo
 17,Female,White,Never been married,High school incomplete,Not employed for pay,"9$100,000 to under $150,000",0,,,,,No,Yes
 16,Male,White,Never been married,High school graduate,Not employed for pay,"9$100,000 to under $150,000",0,,,,,No,No
 16,Male,White,Never been married,Don’t know,Not employed for pay,Refused,0,,,,,No,No
-# datasetforproject
+# datasetforproject,,,,,,,,,,,,,
